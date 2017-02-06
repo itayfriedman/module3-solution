@@ -1,0 +1,20 @@
+#header-nav {
+	border: 0;
+	background-color: #898080;
+	height: 80px;
+}
+
+.navbar-brand h1{
+	color: #000000;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -20px;
+}
+
+li {
+	border: 1px solid black;
+	
+}
+
